@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/TeamAviax/EsproMusic?style=for-the-badge&color=blue" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/TeamAviax/EsproMusic?style=for-the-badge&color=blue" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/TeamAviax/EsproMusic?style=for-the-badge&color=red" alt="GitHub issues">
-  <img src="https://img.shields.io/github/license/TeamAviax/EsproMusic?style=for-the-badge&color=green" alt="GitHub license">
+  <img src="https://img.shields.io/github/stars/TeamEspro/EsproMusic?style=for-the-badge&color=blue" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/TeamEspro/EsproMusic?style=for-the-badge&color=blue" alt="GitHub forks">
+  <img src="https://img.shields.io/github/issues/TeamEspro/EsproMusic?style=for-the-badge&color=red" alt="GitHub issues">
+  <img src="https://img.shields.io/github/license/TeamEspro/EsproMusic?style=for-the-badge&color=green" alt="GitHub license">
 </p>
 
 <h2 align="center">Delivering Superior Music Experience to Telegram</h2>
@@ -108,7 +108,7 @@ The Espro Music Bot offers a range of commands to enhance your music listening e
 | `/stop`                 | Stop the bot and clear the queue.           |
 | `/queue`                | Display the list of songs in the queue.     |
 
-For a full list of commands, use `/help` in [telegram](https://t.me/AviaxBeatzBot).
+For a full list of commands, use `/help` in [telegram](https://t.me/EsproBeatzBot).
 
 ---
 
