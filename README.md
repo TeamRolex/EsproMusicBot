@@ -41,7 +41,7 @@ This process will allow you to bypass the YouTube restrictions and ensure smooth
 ---
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyberPixelPro/EsproMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/TeamEspro/EsproMusicBot)
 
 ---
 
@@ -66,7 +66,7 @@ This process will allow you to bypass the YouTube restrictions and ensure smooth
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/CyberPixelPro/EsproMusic && cd EsproMusic
+   git clone https://github.com/TeamEspro/EsproMusicBot && cd EsproMusic
    ```
 6. **Install Requirements**
    ```bash
