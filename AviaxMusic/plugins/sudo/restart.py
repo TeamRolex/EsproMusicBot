@@ -10,15 +10,15 @@ from git.exc import GitCommandError, InvalidGitRepositoryError
 from pyrogram import filters
 
 import config
-from AviaxMusic import app
-from AviaxMusic.misc import HAPP, SUDOERS, XCB
-from AviaxMusic.utils.database import (
+from EsproMusic import app
+from EsproMusic.misc import HAPP, SUDOERS, XCB
+from EsproMusic.utils.database import (
     get_active_chats,
     remove_active_chat,
     remove_active_video_chat,
 )
-from AviaxMusic.utils.decorators.language import language
-from AviaxMusic.utils.pastebin import AviaxBin
+from EsproMusic.utils.decorators.language import language
+from EsproMusic.utils.pastebin import AviaxBin
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 

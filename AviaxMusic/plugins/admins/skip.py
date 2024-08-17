@@ -2,14 +2,14 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup, Message
 
 import config
-from AviaxMusic import YouTube, app
-from AviaxMusic.core.call import Aviax
-from AviaxMusic.misc import db
-from AviaxMusic.utils.database import get_loop
-from AviaxMusic.utils.decorators import AdminRightsCheck
-from AviaxMusic.utils.inline import close_markup, stream_markup
-from AviaxMusic.utils.stream.autoclear import auto_clean
-from AviaxMusic.utils.thumbnails import gen_thumb
+from EsproMusic import YouTube, app
+from EsproMusic.core.call import Aviax
+from EsproMusic.misc import db
+from EsproMusic.utils.database import get_loop
+from EsproMusic.utils.decorators import AdminRightsCheck
+from EsproMusic.utils.inline import close_markup, stream_markup
+from EsproMusic.utils.stream.autoclear import auto_clean
+from EsproMusic.utils.thumbnails import gen_thumb
 from config import BANNED_USERS
 
 

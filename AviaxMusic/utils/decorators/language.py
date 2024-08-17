@@ -1,5 +1,5 @@
-from AviaxMusic.misc import SUDOERS
-from AviaxMusic.utils.database import get_lang, is_maintenance
+from EsproMusic.misc import SUDOERS
+from EsproMusic.utils.database import get_lang, is_maintenance
 from strings import get_string
 
 

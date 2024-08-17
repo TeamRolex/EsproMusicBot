@@ -1,11 +1,11 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from AviaxMusic import app
-from AviaxMusic.core.call import Aviax
-from AviaxMusic.utils.database import set_loop
-from AviaxMusic.utils.decorators import AdminRightsCheck
-from AviaxMusic.utils.inline import close_markup
+from EsproMusic import app
+from EsproMusic.core.call import Aviax
+from EsproMusic.utils.database import set_loop
+from EsproMusic.utils.decorators import AdminRightsCheck
+from EsproMusic.utils.inline import close_markup
 from config import BANNED_USERS
 
 

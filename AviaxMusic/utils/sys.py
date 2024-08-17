@@ -2,8 +2,8 @@ import time
 
 import psutil
 
-from AviaxMusic.misc import _boot_
-from AviaxMusic.utils.formatters import get_readable_time
+from EsproMusic.misc import _boot_
+from EsproMusic.utils.formatters import get_readable_time
 
 
 async def bot_sys_stats():

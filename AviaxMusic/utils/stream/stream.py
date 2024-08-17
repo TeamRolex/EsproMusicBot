@@ -5,15 +5,15 @@ from typing import Union
 from pyrogram.types import InlineKeyboardMarkup
 
 import config
-from AviaxMusic import Carbon, YouTube, app
-from AviaxMusic.core.call import Aviax
-from AviaxMusic.misc import db
-from AviaxMusic.utils.database import add_active_video_chat, is_active_chat
-from AviaxMusic.utils.exceptions import AssistantErr
-from AviaxMusic.utils.inline import aq_markup, close_markup, stream_markup
-from AviaxMusic.utils.pastebin import AviaxBin
-from AviaxMusic.utils.stream.queue import put_queue, put_queue_index
-from AviaxMusic.utils.thumbnails import gen_thumb
+from EsproMusic import Carbon, YouTube, app
+from EsproMusic.core.call import Aviax
+from EsproMusic.misc import db
+from EsproMusic.utils.database import add_active_video_chat, is_active_chat
+from EsproMusic.utils.exceptions import AssistantErr
+from EsproMusic.utils.inline import aq_markup, close_markup, stream_markup
+from EsproMusic.utils.pastebin import AviaxBin
+from EsproMusic.utils.stream.queue import put_queue, put_queue_index
+from EsproMusic.utils.thumbnails import gen_thumb
 
 
 async def stream(

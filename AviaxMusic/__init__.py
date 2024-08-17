@@ -1,8 +1,8 @@
-from AviaxMusic.core.bot import Aviax
-from AviaxMusic.core.dir import dirr
-from AviaxMusic.core.git import git
-from AviaxMusic.core.userbot import Userbot
-from AviaxMusic.misc import dbb, heroku
+from EsproMusic.core.bot import Aviax
+from EsproMusic.core.dir import dirr
+from EsproMusic.core.git import git
+from EsproMusic.core.userbot import Userbot
+from EsproMusic.misc import dbb, heroku
 
 from .logging import LOGGER
 

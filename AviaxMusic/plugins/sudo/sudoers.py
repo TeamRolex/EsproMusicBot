@@ -1,12 +1,12 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from AviaxMusic import app
-from AviaxMusic.misc import SUDOERS
-from AviaxMusic.utils.database import add_sudo, remove_sudo
-from AviaxMusic.utils.decorators.language import language
-from AviaxMusic.utils.extraction import extract_user
-from AviaxMusic.utils.inline import close_markup
+from EsproMusic import app
+from EsproMusic.misc import SUDOERS
+from EsproMusic.utils.database import add_sudo, remove_sudo
+from EsproMusic.utils.decorators.language import language
+from EsproMusic.utils.extraction import extract_user
+from EsproMusic.utils.inline import close_markup
 from config import BANNED_USERS, OWNER_ID
 
 
