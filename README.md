@@ -1,7 +1,7 @@
-<h1 align="center">🎵 Aviax Music Bot 🎵</h1>
+<h1 align="center">🎵 Espro Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
+  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Espro Music Logo" width="600" height="150">
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ This process will allow you to bypass the YouTube restrictions and ensure smooth
 
 ### 🛠 Commands & Usage
 
-The Aviax Music Bot offers a range of commands to enhance your music listening experience on Telegram:
+The Espro Music Bot offers a range of commands to enhance your music listening experience on Telegram:
 
 | Command                 | Description                                 |
 |-------------------------|---------------------------------------------|
@@ -114,7 +114,7 @@ For a full list of commands, use `/help` in [telegram](https://t.me/AviaxBeatzBo
 
 ### 🔄 Updates & Support
 
-Stay updated with the latest features and improvements to Aviax Music Bot:
+Stay updated with the latest features and improvements to Espro Music Bot:
 
 <p align="center">
   <a href="https://telegram.me/NexGenSpam">
@@ -129,7 +129,7 @@ Stay updated with the latest features and improvements to Aviax Music Bot:
 
 ### 🤝 Contributing
 
-We welcome contributions to the Aviax Music Bot project. If you'd like to contribute, please follow these steps:
+We welcome contributions to the Espro Music Bot project. If you'd like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch with a meaningful name.
@@ -149,6 +149,6 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 ### 🙏 Acknowledgements
 
-Thanks to all the contributors, supporters, and users of the Aviax Music Bot. Your feedback and support keep us going!
+Thanks to all the contributors, supporters, and users of the Espro Music Bot. Your feedback and support keep us going!
 - [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) and [AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) For their Source Codes.
 - **Special Thanks** to [SPiDER 🇮🇳](https://github.com/Surendra9123) for invaluable assistance in resolving the IP ban issue.

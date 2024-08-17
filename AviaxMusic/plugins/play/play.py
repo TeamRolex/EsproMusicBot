@@ -7,7 +7,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from EsproMusic import Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, app
-from EsproMusic.core.call import Aviax
+from EsproMusic.core.call import Espro
 from EsproMusic.utils import seconds_to_min, time_to_seconds
 from EsproMusic.utils.channelplay import get_channeplayCB
 from EsproMusic.utils.decorators.language import languageCB
@@ -291,7 +291,7 @@ async def play_commnd(
             return await mystic.delete()
         else:
             try:
-                await Aviax.stream_call(url)
+                await Espro.stream_call(url)
             except NoActiveGroupCall:
                 await mystic.edit_text(_["black_9"])
                 return await app.send_message(
